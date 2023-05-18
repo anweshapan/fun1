@@ -8,4 +8,6 @@ third line.
 
 Added another line in second comp
 
-Another change in the local comp 
+Another change in the local comp.  
+
+This is another fun line 
